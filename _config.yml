@@ -57,7 +57,7 @@ exclude:
   - fixtures/
 
 # Set a path/url to a logo that will be displayed instead of the title
-logo: "/assets/recomb-logo/recomb.png"
+logo: "/assets/recomb-logo/recomb-dark.svg"
 
 # Enable or disable the site search
 # Supports true (default) or false

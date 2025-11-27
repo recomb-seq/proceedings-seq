@@ -15,8 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: RECOMB 
 description: List of papers published at RECOMB Conference Series
-baseurl: "/proceedings" # the subpath of your site, e.g. /blog
-url: "https://recomb.org/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "proceedings-seq/" # the subpath of your site, e.g. /blog
+url: "https://recomb-seq.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 repository: recomb-conference/proceedings # for github-metadata
 
 permalink: pretty

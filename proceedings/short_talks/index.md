@@ -5,25 +5,6 @@ nav_order: 5
 
 #### Short Talks Selected from Abstracts
 
-##### 2025
-
-  - **Metrics Matter: why we need to stop using silhouette in single-cell benchmarking.** Pia Rautenstrauch and Uwe Ohler .
-  - **Full length isoform reconstruction in single cell data.** Marie Van Hecke, Koen Deserranno, Elise Callens, Filip Van Nieuwerburgh and Kathleen Marchal .
-  - **Masked superstrings as a compact, indexable, and dynamic representation of unconstrained k-mer sets.** Ondřej Sladký, Pavel Veselý and Karel Brinda .
-  - **Automated annotation of satellite DNA.** Alexander Sweeten, Adam Phillippy and Michael Schatz .
-  - **b-move: faster lossless approximate pattern matching in a run-length compressed index.** Lore Depuydt, Luca Renders, Simon Van de Vyver, Lennart Veys, Travis Gagie and Jan Fostier .
-  - **strangepg: toward pangenome scale graph visualization.** Konstantinn Bonnet and Tobias Marschall .
-  - **Improved variant calling via latent breakpoint graphs.** Megan Le, Lillian Zhang, Can Koçkan, Barış Ekim, Houlin Yu, Brian Haas, Aziz Al'Khafaji, Bonnie Berger and Victoria Popic .
-  - **A novel k-mer masking approach for improving specificity in metagenomic pathogen detection.** Junqiong Qiu, Seungmo Lee, Vivek Agarwal and William O'Brien .
-  - **Pre-training dataset deduplication improves genomic LLMs.** Mahler Revsine, Daniel Khashabi and Michael Schatz .
-  - **Edgecopy: accurate CNV calling in duplicated genes using whole-exome sequencing.** Sang Yoon Byun and Vikas Bansal .
-  - **Vizitig: context-rich exploration of sequencing datasets.** Bastien Degardins, Charles Paperman and Camille Marchet .
-  - **Inverted colored de Bruin graph for practical kmer set storage.** Timothé Rouzé, Rayan Chikhi and Antoine Limasset .
-  - **Reindeer2: practical abundance index at scale.** Yohan Hernandez Courbevoie, Mikaël Salson, Chloé Bessière, Haoliang Xue, Daniel Gautheret, Camille Marchet and Antoine Limasset .
-  - **Multi-sample, multi-platform isoform quantification using empirical Bayes.** Arghamitra Talukder, Shree Thavarekere, Madison Mehlferber, Gloria M Sheynkman and David A. Knowles .
-  - **De Bruijn graphs for pangenomics: in-depth performance benchmarking of de Bruijn graph-based tools for read mapping.** Zülal Bingöl, Berkan Şahin, Konstantina Koliogeorgi, Ricardo Roman-Brenes, Klea Zambaku, Can Firtina, Onur Mutlu and Can Alkan .
-  - **Efficient algorithm for resolving scenarios of complex chromosomal rearrangements.** Barbara Poszewiecka, Krzysztof Gogolewski and Anna Gambin .
-
 ##### 2024
 
   - **A whole-genome probe design for massively parallel variant validation using selective circularization.** Daniel Newburger, Georges Natsoulis, Hua Xu, Sue Grimes, John Bell and Hanlee Ji.
@@ -128,28 +109,6 @@ nav_order: 5
 
 
 #### Posters
-
-##### 2025
-
- - **Accelerating gkm-SVM training through GPU implementation.** Dongwon Lee.
-  - **Identifying potential therapeutic targets for heart failure through systematic transcriptome analysis.** Min-Ju Kim and Haeseung Lee.
-  - **Population-specific and universal molecular features of skeletal muscle aging: Comparative transcriptome analysis of Korean and GTEx datasets.** Byeong-Don Min and Sang-Min Park.
-  - **Unlocking hidden protein functions with a biochemically informed annotation strategy.** Olga Botvinnik.
-  - **Unraveling miRNA-seq data: a statistical framework to account for competition for expression towards accurate differential expression analysis.** Seong-Hwan Jun.
-  - **Systematic evaluation of dimensionality reduction methods for capturing transcriptomic signatures responding to drug treatments.** Yuseong Kwon, Sojeong Park, Soyoung Park and Haeseung Lee.
-  - **GreedyMini: generating low-density DNA minimizers.** Shay Golan, Ido Tziony, Matan Kraus, Yaron Orenstein and Arseny Shur.
-  - **GPU-accelerated homology search with MMseqs2.** Felix Kallenborn, Alejandro Chacon, Christian Hundt, Hassan Sirelkhatim, Kieran Didi, Sooyoung Cha, Christian Dallago, Milot Mirdita, Bertil Schmidt and Martin Steinegger .
-  - **strangepg: toward pangenome scale graph visualization.** Konstantinn Bonne and Tobias Marschall.
-  - **Vizitig: context-rich exploration of sequencing datasets.** Bastien Degardins, Charles Paperman and Camille Marchet.
-  - **Identifying gene-environment interactions for cancer incidence using epigenomic profiles.** Younghoon Kim.
-  - **stDyer enables spatial domain clustering with dynamic graph embedding.** Ke Xu, Yu Xu, Zirui Wang, Xin Zhou and Lu Zhang.
-  - **Splicing junction classifier for detecting abnormal KEAP1-NRF2 system activation.** Raul Mateos, Wira Winardi, Kenichi Chiba, Ai Okada, Ayako Suzuki, Yoichiro Mitsuishi and Yuichi Shiraishi.
-  - **Adapting broad protein language models to viruses.** Spyros Lytras, Adam Strange, Jumpei Ito and Kei Sato.
-  - **b-move: faster lossless approximate pattern matching in a run-length compressed index.** Lore Depuydt, Luca Renders, Simon Van de Vyver, Lennart Veys, Travis Gagie and Jan Fostier.
-  - **Full length isoform reconstruction in single cell data.** Marie Van Hecke, Koen Deserranno, Elise Callens, Filip Van Nieuwerburgh and Kathleen Marchal.
-  - **A novel computational pipeline for the functional characterization and deorphanization of G-protein coupled receptors.** Catherine Zhou.
-  - **Parallel and space efficient exact local alignment.** Evelin Aasna.
-  - **Pre-training dataset deduplication improves genomic LLMs.** Mahler Revsine, Daniel Khashabi and Michael Schatz.
 
 ##### 2024
 

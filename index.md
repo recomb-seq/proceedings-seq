@@ -12,6 +12,8 @@ RECOMB-seq was founded in 2011 as a response to the expanding applications of hi
 
 You can watch some previous talks of the conference at our [YouTube channel](https://www.youtube.com/@recomb-seq).
 
+We also have a Google Scholar Profile for [RECOMB-Seq](https://scholar.google.com/citations?hl=en&user=GrrEQ5QAAAAJ) 
+
 ## The RECOMB-Seq Publication Lifecycle
 
 This page serves as a central directory for all RECOMB-Seq publications. Our goal is to provide a comprehensive listing that connects a paper's initial preprint, its official proceedings version, and its final journal publication all in one place.

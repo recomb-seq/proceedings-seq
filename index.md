@@ -16,7 +16,7 @@ We also have a Google Scholar Profile for [RECOMB-Seq](https://scholar.google.co
 
 ## The RECOMB-Seq Publication Lifecycle
 
-This page serves as a central directory for all RECOMB-Seq publications. Our goal is to provide a comprehensive listing that connects a paper's initial preprint, its official proceedings version, and its final journal publication all in one place.
+This page serves as the official central directory for all RECOMB-Seq publications. Our goal is to provide a comprehensive listing that connects a paper's initial preprint, its official proceedings version, and its final journal publication all in one place.
 
 ### Our Review Process
 
@@ -28,6 +28,7 @@ Authors of accepted papers have multiple avenues for publication:
 
 - Journal Partnership: RECOMB-Seq maintains partnerships with leading journals. Accepted papers are eligible for publication in one of our partners after an additional editorial screening process. RECOMB-Seq had different journal partners over the years, including BMC Bioinformatics, Bioinformatics, iScience, and Journal of Computational Biology.
 - Overlay: Manuscripts submitted to this track are reviewed by the program committee, and selected submissions are invited for oral presentation. The authors are free to choose to submit their manuscript to any journal.
-- Preprint: We require all papers to be submitted to a public preprint server (bioRxiv, arXiv, etc.) prior to the conference.
+
+Regardless of the publication avenues, we require all papers to be submitted to a public preprint server (bioRxiv, arXiv, etc.) prior to the conference.
 
 

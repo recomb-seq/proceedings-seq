@@ -1,4 +1,3 @@
 # RECOMB-Seq Proceedings. 
 
-- Web page design forked from [Just the Docs](https://github.com/just-the-docs/just-the-docs) and edited by: [Arda İçöz](https://github.com/ardaicoz)
-- Data collection: [Arda İçöz](https://github.com/ardaicoz) and [Can Alkan](https://github.com/calkan).
+- Web page design forked from [Just the Docs](https://github.com/just-the-docs/just-the-docs) and edited by: [Arda İçöz](https://github.com/ardaicoz),  [Can Alkan](https://github.com/calkan), and [Paul Medvedev](https://github.com/pashadag).

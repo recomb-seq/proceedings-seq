@@ -21,14 +21,12 @@ This page serves as the official central directory for all RECOMB-Seq publicatio
 ### Our Review Process
 
 Every paper submitted to RECOMB-Seq undergoes a rigorous peer-review process, with each submission being evaluated by at least three reviewers.
+The best selection of papers are accepted and invited for an oral presentation at the conference.
+All accepted papers are required to be available on a public preprint server (bioRxiv, arXiv, etc.).
+
 
 ### From Proceedings to Journal Publication
-
-Authors of accepted papers have multiple avenues for publication:
-
-- Journal Partnership: RECOMB-Seq maintains partnerships with leading journals. Accepted papers are eligible for publication in one of our partners after an additional editorial screening process. RECOMB-Seq had different journal partners over the years, including BMC Bioinformatics, Bioinformatics, iScience, and Journal of Computational Biology.
-- Overlay: Manuscripts submitted to this track are reviewed by the program committee, and selected submissions are invited for oral presentation. The authors are free to choose to submit their manuscript to any journal.
-
-Regardless of the publication avenues, we require all papers to be submitted to a public preprint server (bioRxiv, arXiv, etc.) prior to the conference.
-
+Authors of accepted papers have two avenues for publication, which they select at the time of submission:
+- Journal Parternship: RECOMB-Seq maintains partnerships with leading journals. Accepted papers are eligible for publication in one of our partners after an additional editorial screening process. RECOMB-Seq had different journal partners over the years, including BMC Bioinformatics, Bioinformatics, iScience, and Journal of Computational Biology.
+- Overlay Track: The authors submit their manuscript to any journal of their choice and undergo a review process there.
 
